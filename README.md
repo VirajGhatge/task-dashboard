@@ -3,8 +3,8 @@
 A small, fast task board built with **SvelteKit + TypeScript + Tailwind**.  
 Create, edit, filter, and search tasks with a clean UI and solid accessibility.
 
-**Live demo:** @DEMOLINK@
-**Repository:** @REPOLINK@
+**Live demo:** [@DEMOLINK@](https://task-dashboarddemo.vercel.app/)
+**Repository:** [@REPOLINK@](https://github.com/VirajGhatge/task-dashboard.git)
 
 ---
 
@@ -24,7 +24,7 @@ Create, edit, filter, and search tasks with a clean UI and solid accessibility.
 
 ```bash
 # clone and install
-git clone @REPOURL@
+git clone https://github.com/VirajGhatge/task-dashboard.git
 cd task-dashboard   # or your actual folder name
 npm install
 
