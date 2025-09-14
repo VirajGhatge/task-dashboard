@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+	@apply inline-flex items-center justify-center gap-2 px-4 h-12 rounded-btn font-medium transition active:scale-[.98];
+}
+.btn-primary {
+	@apply bg-primary-500 text-white hover:bg-primary-600 focus:outline-none focus:ring-2 focus:ring-primary-300;
+}
+.btn-outline {
+	@apply border border-slate-300 text-slate-800 hover:bg-slate-50;
+}
+.input {
+	@apply h-12 px-4 rounded-btn border border-slate-300 focus:outline-none focus:ring-2 focus:ring-primary-300;
+}
+.label {
+	@apply text-sm font-medium text-slate-600;
+}
+.card {
+	@apply rounded-card shadow-card bg-white;
+}
+
+.line-clamp-2 {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}

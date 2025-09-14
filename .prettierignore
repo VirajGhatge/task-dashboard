@@ -1,0 +1,48 @@
+# Dependencies / builds / framework output
+node_modules/
+.svelte-kit/
+build/
+dist/
+.output/
+
+# Hosting / platforms
+.vercel/
+.netlify/
+.wrangler/
+
+# Test artifacts
+coverage/
+.vitest/
+playwright-report/
+test-results/
+blob-report/
+
+# Logs & caches
+*.log
+.nyc_output/
+.turbo/
+.parcel-cache/
+
+# Env files (don’t format secrets)
+.env
+.env.*
+
+# Static binaries/assets (images, fonts, etc.)
+static/
+
+# Package manager lockfiles 
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lock
+bun.lockb
+
+# Editor/OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vite timestamp artifacts
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

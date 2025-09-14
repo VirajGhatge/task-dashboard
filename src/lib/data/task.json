@@ -1,0 +1,142 @@
+[
+	{
+		"id": "t-1",
+		"title": "Optimize performance",
+		"description": "Bugfix and regression test",
+		"status": "pending",
+		"createdAt": "2025-07-01T09:00:00Z"
+	},
+	{
+		"id": "t-2",
+		"title": "Polish responsive grid",
+		"description": "Project setup & usage guide",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T09:12:00Z"
+	},
+	{
+		"id": "t-3",
+		"title": "Build TaskForm",
+		"description": "Fix/quiet ESLint & Prettier",
+		"status": "completed",
+		"createdAt": "2025-07-01T09:24:00Z"
+	},
+	{
+		"id": "t-4",
+		"title": "Add keyboard shortcuts",
+		"description": "Tests with Vitest + Testing Library",
+		"status": "pending",
+		"createdAt": "2025-07-01T09:36:00Z"
+	},
+	{
+		"id": "t-5",
+		"title": "Fix flaky tests",
+		"description": "SvelteKit + Tailwind + TS",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T09:48:00Z"
+	},
+	{
+		"id": "t-6",
+		"title": "Design tokens update",
+		"description": "LocalStorage-backed API shim",
+		"status": "completed",
+		"createdAt": "2025-07-01T10:00:00Z"
+	},
+	{
+		"id": "t-7",
+		"title": "Optimize performance",
+		"description": "Key bindings for power users",
+		"status": "pending",
+		"createdAt": "2025-07-01T10:12:00Z"
+	},
+	{
+		"id": "t-8",
+		"title": "Integrate analytics",
+		"description": "Skeleton UIs for loading states",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T10:24:00Z"
+	},
+	{
+		"id": "t-9",
+		"title": "Deploy to Vercel",
+		"description": "Offset-based pagination mock",
+		"status": "completed",
+		"createdAt": "2025-07-01T10:36:00Z"
+	},
+	{
+		"id": "t-10",
+		"title": "Fix flaky tests",
+		"description": "Persisted theme and tokens",
+		"status": "pending",
+		"createdAt": "2025-07-01T10:48:00Z"
+	},
+	{
+		"id": "t-11",
+		"title": "Build TaskForm",
+		"description": "Project setup & usage guide",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T11:00:00Z"
+	},
+	{
+		"id": "t-12",
+		"title": "Update README",
+		"description": "Stabilize flaky/async tests",
+		"status": "completed",
+		"createdAt": "2025-07-01T11:12:00Z"
+	},
+	{
+		"id": "t-13",
+		"title": "Add keyboard shortcuts",
+		"description": "Status + query filtering; derived store",
+		"status": "pending",
+		"createdAt": "2025-07-01T11:24:00Z"
+	},
+	{
+		"id": "t-14",
+		"title": "Implement search",
+		"description": "LocalStorage-backed API shim",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T11:36:00Z"
+	},
+	{
+		"id": "t-15",
+		"title": "Add sorting",
+		"description": "Dialog with Esc/backdrop close and focus trap",
+		"status": "completed",
+		"createdAt": "2025-07-01T11:48:00Z"
+	},
+	{
+		"id": "t-16",
+		"title": "Integrate analytics",
+		"description": "CI cache + test stability",
+		"status": "pending",
+		"createdAt": "2025-07-01T12:00:00Z"
+	},
+	{
+		"id": "t-17",
+		"title": "Improve accessibility",
+		"description": "Store refactor for clearer derivations",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T12:12:00Z"
+	},
+	{
+		"id": "t-18",
+		"title": "Stabilize CI",
+		"description": "Persisted theme and tokens",
+		"status": "completed",
+		"createdAt": "2025-07-01T12:24:00Z"
+	},
+	{
+		"id": "t-19",
+		"title": "QA pass",
+		"description": "Extend color/radius/shadow tokens",
+		"status": "pending",
+		"createdAt": "2025-07-01T12:36:00Z"
+	},
+	{
+		"id": "t-20",
+		"title": "Refactor store",
+		"description": "Offset-based pagination mock",
+		"status": "in-progress",
+		"createdAt": "2025-07-01T12:48:00Z"
+	}
+]

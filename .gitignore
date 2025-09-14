@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+
+# Build / Framework output
+.output/
+.svelte-kit/
+build/
+dist/
+
+# Hosting / platforms
+.vercel/
+.netlify/
+.wrangler/
+
+# Test & coverage artifacts
+coverage/
+.vitest/
+
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.test
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+.history/
+
+# Tooling caches / misc
+.eslintcache
+.nyc_output/
+.turbo/
+.parcel-cache/
+*.swp
+*.swo
+
+# Vite timestamp artifacts
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
